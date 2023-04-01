@@ -20,11 +20,10 @@
 
 
 
-• The performance of the various Machine Learning Algorithms on SEVIR dataset are evaluated by plotting ROC Curves
-
-
-
 • Similarly, "Decision_Tree_Machine_Learning_Tutorial_Op_Meterology" and "Random_Forest_Machine_Learning_Tutorial_Op" diversify the approaches in meteorological classification taks by applying Decision trees and Random Forests respectively.
+
+
+• The performance of the various Machine Learning Algorithms on SEVIR dataset are evaluated by plotting ROC Curves
 
 
 • ROC Curve for classic Logistic Regression:
@@ -35,7 +34,7 @@
 
 ![image](https://user-images.githubusercontent.com/68967101/229259104-46c731f8-9ff7-4bec-b3da-7716e39f0365.png)
 
-• ROC Curve for Radom Forests:
+• ROC Curve for Random Forests:
 
 
 ![image](https://user-images.githubusercontent.com/68967101/229259144-4d938273-abf7-4629-8376-3875c04bbb1c.png)
