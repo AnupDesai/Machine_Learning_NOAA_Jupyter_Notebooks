@@ -20,9 +20,6 @@
 
 
 
-• Similarly, "Decision_Tree_Machine_Learning_Tutorial_Op_Meterology" and "Random_Forest_Machine_Learning_Tutorial_Op" diversify the approaches in meteorological classification taks by applying Decision trees and Random Forests respectively.
-
-
 • The performance of the various Machine Learning Algorithms on SEVIR dataset are evaluated by plotting ROC Curves
 
 
