@@ -32,9 +32,12 @@
 ![image](https://user-images.githubusercontent.com/68967101/229259037-b84828e1-646d-4ed1-ae53-dd4baeddcc31.png)
 
 • ROC Curve for Decision Trees:
+
 ![image](https://user-images.githubusercontent.com/68967101/229259104-46c731f8-9ff7-4bec-b3da-7716e39f0365.png)
 
 • ROC Curve for Radom Forests:
+
+
 ![image](https://user-images.githubusercontent.com/68967101/229259144-4d938273-abf7-4629-8376-3875c04bbb1c.png)
 
 
